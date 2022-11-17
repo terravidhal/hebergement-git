@@ -1,12 +1,13 @@
 
 
 .username{
-    background-color: brown;
+    background-color: green;
     color: white;
     font-weight: bold;
-    font-size: 1.2rem;
-    width: 70px;
+    font-size:2rem;
+    width: 120px;
     margin: 20px;
+    padding: 10px;
 }
 .background img{
     margin: 20px;
