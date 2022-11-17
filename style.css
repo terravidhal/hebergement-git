@@ -1,0 +1,15 @@
+
+
+.username{
+    background-color: brown;
+    color: white;
+    font-weight: bold;
+    font-size: 1.2rem;
+    width: 70px;
+    margin: 20px;
+}
+.background img{
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+}
